@@ -13,7 +13,7 @@
     ],
 
     "plugins": {
-        "bemhint-plugin-redundant-techs": {
+        "bemhint-plugins-redundant-techs": {
             "techs": {
                 "styl|deps.js": true
             }
