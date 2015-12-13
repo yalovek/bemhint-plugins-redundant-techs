@@ -5,7 +5,7 @@
 ```json
 {
     "levels": [
-        "blocks"
+        "*.blocks"
     ],
 
     "excludePaths": [
