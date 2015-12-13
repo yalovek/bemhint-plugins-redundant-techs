@@ -1,7 +1,7 @@
 module.exports = {
     forEntityTech: function (tech, techsConfig, entity) {
         var error = {
-            msg: 'Error of check fs entities',
+            msg: 'Redundand tech',
             tech: tech.tech
         };
 
