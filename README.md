@@ -13,7 +13,7 @@
     ],
 
     "plugins": {
-        "bemhint-plugin-check-fs-entities": {
+        "bemhint-plugin-redundant-techs": {
             "techs": {
                 "styl|deps.js": true
             }
