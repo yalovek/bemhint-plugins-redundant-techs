@@ -1,5 +1,5 @@
 {
-  "name": "bemhint-plugin-check-fs-entities",
+  "name": "bemhint-plugin-redundant-techs",
   "version": "1.0.0",
   "description": "Check file system BEM-enteties",
   "main": "index.js",
