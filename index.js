@@ -1,4 +1,4 @@
-module.forEntityTech = function (tech, techsConfig, entity) {
+module.exports.forEntityTech = function (tech, techsConfig, entity) {
     entity.addError({
         msg: 'Redundand tech',
         tech: tech.tech
