@@ -1,4 +1,4 @@
-# BEM hint plugin for finding redundant techs
+# [Bem hint](https://github.com/bem/bemhint) plugin for finding redundant techs
 
 ## Config example
 
