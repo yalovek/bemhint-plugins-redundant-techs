@@ -3,18 +3,18 @@
 ## Config example
 
 ```json
-{
-    "levels": [
+module.exports = {
+    levels: [
         "*.blocks"
     ],
 
-    "excludePaths": [
+    excludePaths: [
         "node_modueles/**"
     ],
 
-    "plugins": {
+    plugins: {
         "bemhint-plugins-redundant-techs": {
-            "techs": {
+            techs: {
                 "styl|deps.js": true
             }
         }
