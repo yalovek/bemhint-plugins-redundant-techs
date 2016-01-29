@@ -2,7 +2,7 @@
 
 ## Config example
 
-```json
+```js
 module.exports = {
     levels: [
         "*.blocks"
@@ -19,5 +19,5 @@ module.exports = {
             }
         }
     }
-}
+};
 ```
